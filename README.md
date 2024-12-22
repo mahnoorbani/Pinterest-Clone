@@ -15,6 +15,3 @@ This project is a clone of Pinterest, a visual discovery platform that allows us
 - CSS
 - JavaScript
 
-## Installation
-
-   git clone https://github.com/Mujeeburrehman4596/Pinterest_Clone

@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+}
+
+.image-grid .card {
+    margin-bottom: 20px;
+}
+
+.profile-section {
+    background-color: #f8f9fa;
+}
+
+.profile-section h1,
+.profile-section p {
+    margin-bottom: 20px;
+}
+
+.profile-section #savedPins .card {
+    margin-bottom: 20px;
+}
+
+.login-section,
+.upload-section {
+    background-color: #f8f9fa;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    border: none;
+}
+
+.card-body {
+    padding: 30px;
+}
+
+.card-body h3 {
+    margin-bottom: 20px;
+}
+
+.card-body .btn {
+    background-color: #e60023;
+    border-color: #e60023;
+}
+
+.card-body .btn:hover {
+    background-color: #c2001e;
+    border-color: #c2001e;
+}
